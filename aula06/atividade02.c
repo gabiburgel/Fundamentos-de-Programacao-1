@@ -2,7 +2,7 @@
     2. Escreva um programa que imprima a tabuada de um número n dado (1 x n até 10 x n). Faça
     duas versões do programa, uma usando while e a outra for.
 */
-
+#include <stdio.h)>
 int main (){
 
     int n, i;
