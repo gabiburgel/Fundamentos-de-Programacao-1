@@ -3,7 +3,7 @@
     definida com o uso da diretiva de pré-processamento #define. Faça a sequência ser mostrada duas
     vezes, uma usando a estrutura de repetição while, a outra o for.
 */
-
+#include <stdio.h)>
 #define N 10
 int main(){
 
