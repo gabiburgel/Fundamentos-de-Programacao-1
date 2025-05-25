@@ -2,7 +2,7 @@
     3. Escreva um programa que imprima os 10 primeiros números inteiros maiores que um n dado.
     Faça duas versões do programa, uma usando while e a outra for.
 */
-
+#include <stdio.h)>
 /int main () {
 
      int n, i;
